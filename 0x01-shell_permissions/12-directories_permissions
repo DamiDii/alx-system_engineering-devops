@@ -1,0 +1,2 @@
+#!/bin/bash
+mkdir my_dir | find my_dir -type d -exec chmod 751 {} +
